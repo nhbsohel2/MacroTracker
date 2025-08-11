@@ -28,7 +28,7 @@ The app stores all data in a local **SQLite** database and uses **SQLAlchemy ORM
 
 ---
 
-## 🛠 Technical Details
+## Technical Details
 
 ### **Architecture**
 - **Backend:** [Flask](https://flask.palletsprojects.com/) (Python micro-framework)
